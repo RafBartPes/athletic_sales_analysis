@@ -64,7 +64,8 @@ Rename the "units_sold" column to "Womens_Footwear_Units_Sold"
 
 Show the top 5 results.
 
-6. Determine the Week with the Most Women's Athletic Footwear Sales - using pivot table and groupby
+## Determine the Week with the Most Women's Athletic Footwear Sales - using pivot table and groupby
    
-# Resample the pivot table into weekly bins, and get the total sales for each week.
-# Sort the resampled pivot table in ascending order on "Total Sales".
+Resample the pivot table into weekly bins, and get the total sales for each week
+
+Sort the resampled pivot table in ascending order on "Total Sales"
