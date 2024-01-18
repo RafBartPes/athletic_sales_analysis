@@ -3,7 +3,7 @@
 ## Module_5
 import pandas as pd
 
-##1. Combine and Clean the Data
+## Combine and Clean the Data
    
 Read the CSV files into DataFrames.
 Display the 2020 sales DataFrame
