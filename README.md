@@ -1,19 +1,19 @@
 # athletic_sales_analysis
 
 ## Module_5
-# import pandas as pd
+import pandas as pd
 
-1. Combine and Clean the Data
+##1. Combine and Clean the Data
    
-# Read the CSV files into DataFrames.
-# Display the 2020 sales DataFrame
-# Display the 2021 sales DataFrame
-# Check the 2020 sales data types.
-# Check the 2021 sales data types.
-# Combine the 2020 and 2021 sales DataFrames on the rows and reset the index.
-# Check if any values are null.
-# Check the data type of each column
-# Convert the "invoice_date" to a datetime datatype
+Read the CSV files into DataFrames.
+Display the 2020 sales DataFrame
+Display the 2021 sales DataFrame
+Check the 2020 sales data types.
+Check the 2021 sales data types.
+Combine the 2020 and 2021 sales DataFrames on the rows and reset the index.
+Check if any values are null.
+Check the data type of each column
+Convert the "invoice_date" to a datetime datatype
 
 2. Determine which Region Sold the Most Products - using group by and pivot table
    
